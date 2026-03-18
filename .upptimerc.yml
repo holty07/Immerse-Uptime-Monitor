@@ -16,7 +16,7 @@ sites:
   - name: CWBTS
     url: https://cwbts.com.au
   - name: Disability and Injury Services
-    url: https://disabilityandinjury-services.com.au
+    url: https://disabilityandinjuryservices.com.au
   - name: Farm Fresh Fundraising
     url: https://farmfreshfundraising.com.au
   - name: Fiona Schofield Millinery
@@ -53,3 +53,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+notifications:
+  - type: slack
+    url: "$SLACK_WEBHOOK_URL"
