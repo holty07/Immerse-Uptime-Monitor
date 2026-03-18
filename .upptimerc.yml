@@ -1,25 +1,55 @@
 # Change these first
-owner: holty07 # Your GitHub organization or username, where this repository lives
-repo: Immerse-Uptime-Monitor # The name of this repository
+owner: holty07 
+repo: Immerse-Uptime-Monitor 
 
 sites:
-  - name: Immerse
+  - name: Immerse Marketing
     url: https://immersemarketing.com.au
+  - name: ALC Training (AU)
+    url: https://alctraining.com.au
+  - name: Billie Bob
+    url: https://billiebob.com.au
+  - name: Briggins
+    url: https://www.briggins.com.au
+  - name: Coral Covey
+    url: https://coralcovey.com
+  - name: CWBTS
+    url: https://cwbts.com.au
+  - name: Disability and Injury Services
+    url: https://disabilityandinjury-services.com.au
+  - name: Farm Fresh Fundraising
+    url: https://farmfreshfundraising.com.au
+  - name: Fiona Schofield Millinery
+    url: https://fionaschofieldmillinery.com.au
+  - name: Holt Plumbing
+    url: https://holtplumbing.com.au
+  - name: JSM Accounting
+    url: https://jsmaccounting.com.au
+  - name: Longenergy
+    url: https://longenergy.com.au
+  - name: Need2Heal
+    url: https://need2heal.com.au
+  - name: Ninox EMS
+    url: https://ninoxems.com
+  - name: Pets.com.au
+    url: https://pets.com.au
+  - name: Pipers World
+    url: https://pipersworld.com.au
+  - name: Quiet Network
+    url: https://quietnetwork.com.au
+  - name: Snacktacular
+    url: https://snacktacular.com.au
+  - name: Sunny Coast Plumbing
+    url: https://sunnycoastplumbing.com.au
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.immersemarketing.com.au
-  # baseUrl: /Immerse-Uptime-Monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Immerse Monitoring
   introTitle: "A GitHub powered uptime monitor for Immerse Marketing Clients"
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/holty07/Immerse-Uptime-Monitor). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/holty07/Immerse-Uptime-Monitor).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
