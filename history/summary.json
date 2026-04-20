@@ -62,19 +62,19 @@
     "url": "https://www.briggins.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.briggins.com.au.ico",
     "slug": "briggins",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3287,
-    "timeDay": 3170,
-    "timeWeek": 3046,
-    "timeMonth": 3211,
-    "timeYear": 3287,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.89%",
+    "time": 3284,
+    "timeDay": 3175,
+    "timeWeek": 3063,
+    "timeMonth": 3210,
+    "timeYear": 3284,
     "dailyMinutesDown": {
-      "2026-04-20": 1
+      "2026-04-20": 56
     }
   },
   {
