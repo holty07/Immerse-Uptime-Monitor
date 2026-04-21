@@ -44,10 +44,10 @@
     "url": "https://billiebob.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/billiebob.com.au.ico",
     "slug": "billie-bob",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1338,
@@ -55,7 +55,9 @@
     "timeWeek": 1544,
     "timeMonth": 1326,
     "timeYear": 1338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-21": 1
+    }
   },
   {
     "name": "Briggins",
@@ -162,11 +164,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fionaschofieldmillinery.com.au.ico",
     "slug": "fiona-schofield-millinery",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 1352,
     "timeDay": 2919,
     "timeWeek": 1649,
